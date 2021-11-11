@@ -16,6 +16,9 @@ public class UserData {
 
     }
 
+
+
+    
     public String getContact() {
         return Contact;
     }
@@ -69,6 +72,8 @@ public class UserData {
     public void setGender(int gender) {
         this.Gender = gender;
     }
+
+
 
 
 }
