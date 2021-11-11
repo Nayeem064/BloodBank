@@ -84,4 +84,6 @@ public class CustomUserData implements Serializable {
     public void setDate(String date) {
         this.Date = date;
     }
+
+
 }
